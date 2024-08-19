@@ -14,6 +14,7 @@ I'm a passionate Full Stack Developer with a focus on both Frontend and Backend 
   - Vue.js
   - React
   - HTML, CSS & JavaScript
+  - Wordpress & Elementor (Real Project)
 
 ## 🌱 Currently Learning
 
