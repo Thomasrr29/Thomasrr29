@@ -6,20 +6,26 @@ I'm a passionate Full Stack Developer with a focus on both Frontend and Backend 
 
 - **Backend:**
   - NestJS
+  - Express
   - Node.js
-  - TypeORM
   - SQL
+  - MongoDB
+  - TypeORM
 
 - **Frontend:**
   - Vue.js
   - React
   - HTML, CSS & JavaScript
-  - Wordpress & Elementor 
+    
+- **Other technologies:**
+  - Wordpress & Elementor
+    
 ## 🌱 Currently Learning
 
 - **PHP**
 - **Vue.js**
 - **React**
+
 
 ## 📊 GitHub Stats
 
