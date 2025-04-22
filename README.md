@@ -7,6 +7,7 @@ I'm a passionate Full Stack Developer with a focus on both Frontend and Backend 
 - **Backend:**
   - NestJS
   - Express
+  - Python 
   - Node.js
   - SQL
   - MongoDB
@@ -22,7 +23,7 @@ I'm a passionate Full Stack Developer with a focus on both Frontend and Backend 
     
 ## 🌱 Currently Learning
 
-- **PYTHON**
+- **PHP**
 
 
 ## 📊 GitHub Stats
