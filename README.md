@@ -10,11 +10,11 @@ I'm a passionate Full Stack Developer with a focus on both Frontend and Backend 
   - Python 
   - Node.js
   - SQL
+  - FastAPI
   - MongoDB
   - TypeORM
 
 - **Frontend:**
-  - Vue.js
   - React
   - HTML, CSS & JavaScript
     
